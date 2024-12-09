@@ -1,0 +1,35 @@
+Material,Band Gap Energy (eV),Dopant Material,Dopant Concentration,Solar-to-Chemical Conversion Rate
+SnO2,3.6,None,0.01,0.92
+SnO2,3.1,Oxygen Vacancies,0.04,0.88
+TiO2,3.2,Lithium Reduction,0.01,0.86
+ZnO,3.37,Lithium Reduction,0.03,0.82
+CeO2,2.92,Lithium Reduction,0.05,0.77
+SnO2,3.68,None,0.02,0.96
+Vo/BiVO4-TiO2,2.77,Oxygen Vacancies,0.05,0.92
+SnO2 Nanoparticles (1%),3.28,None,0.04,1
+SnO2 Nanoparticles (2%),2.77,None,0.02,1
+SnO2 Nanoparticles (4%),2.69,None,0.01,1
+Ag-doped SnO2 (1%),3.41,Silver,0.01,0.94
+Ag-doped SnO2 (3%),3.04,Silver,0.03,0.86
+Ag-doped SnO2 (5%),3.21,Silver,0.05,0.9
+SnO2 Nanoparticles,3.6,None,0.04,0.92
+Au@D-SnO2,3.01,Gold with oxygen vacancies,0.4,0.84
+Graphene/SnO2,2.11,Graphene,0.005,0.94
+SnO2 Nanoparticles,3.6,None,0.02,0.96
+ZnO Nanoparticles,3.1,Oxygen Vacancies,0.1,0.88
+ZnO Nanorods,3.37,Laser-Induced Defects,0.2,0.92
+NiO/SnO2 heterostructures,1.88,NiO,0.01,0.72
+NiO/SnO2 composites,2.29,Nickel Acetate,0.2,0.88
+3NSR Catalyst,2.16,NiO,0.02,0.84
+SnO2-x nanocrystals,2.66,Sn2+,0.4,0.96
+SnO2 nanocrystals,3.26,Sn2+ (self-doping),0.1,0.77
+SnO2-x (1:9 precursor ratio),2.66,Sn2+,0.6,0.96
+SnO2-x (3:7 precursor ratio),2.16,Sn2+,0.4,0.88
+SnO2-x (5:5 precursor ratio),2.26,Sn2+,0.1,0.86
+SnO2-x nanocrystals (0:10 precursor ratio),2.95,Sn2+,0.2,0.94
+SnO2-x nanocrystals (1:9 precursor ratio),2.66,Sn2+,0.4,0.98
+SnO2 nanocrystals,3.26,Self-doped Sn2+,0.1,0.76
+SnO2-x nanocrystals (9:1 precursor ratio),2.38,Sn2+,0.4,0.92
+SnO2-x nanocrystals (3:7 precursor ratio),2.16,Sn2+,0.2,0.86
+SnO2-x nanocrystals (5:5 precursor ratio),2.26,Sn2+,0.4,0.94
+SnO2-x nanocrystals (7:3 precursor ratio),2.3,Sn2+,0.6,0.96
